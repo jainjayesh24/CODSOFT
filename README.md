@@ -1,12 +1,12 @@
 # DATA Science Projects
----
-About the internship:
+
+## About the internship:
 I have been learning about various data science concepts and techniques, including Exploratory Data Analysis (EDA) and data visualization. I believe that applying these skills to real-world projects would be the next step in my learning journey.
 Building data science projects at Codsoft would not only allow me to apply and enhance my skills but also contribute to the company. 
----
 
 
-### Learning Outcomes
+
+## Learning Outcomes
 EDA and Data science can lead to the ability to enhance Data efficiency.
 1. It provides Data Understanding
 2. Data Cleaning Skills
